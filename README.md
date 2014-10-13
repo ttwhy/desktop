@@ -6,4 +6,10 @@ notice -> this setup is just for a local usage for a single user.
 ## Install 
 just clone the repository inside your homedir
 
+## Whats inside
+### configuration files
+
+- vim
+- screen
+
 
